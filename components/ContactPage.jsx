@@ -5,7 +5,7 @@ const ContactPage = () => {
     <main className="ms-container">
         <div className="ms-section__block">
           <div className="ms-page-title">
-            <h2 className="page-header">Let's work together</h2>
+            <h2 className="page-header">Let&apos;s work together</h2>
             <p className="page-desc">Assertively synthesize state of the art testing procedures via sticky niches.</p>
           </div>
         </div>

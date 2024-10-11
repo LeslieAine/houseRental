@@ -19,7 +19,7 @@ const AboutPage = () => {
                             <p className="about-title" style={{ color: '#df1f29' }}>welcome</p>
                             <p>Welcome to your home in Tulum. Casa Lulu is a beautifully
                                 curated tropical sanctuary featuring 4 bedrooms and 3
-                                stunning full bathrooms. The villa is located in Tulum's
+                                stunning full bathrooms. The villa is located in Tulum&apos;s
                                 premiere upscale neighborhood Aldea Zama, centrally
                                 located between the town and the beach.
                                 Casa Lulu delivers the compete luxury experience with all of
