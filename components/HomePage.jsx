@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 const HomePage = () => {
   return (
@@ -14,7 +15,7 @@ const HomePage = () => {
               ></div>
               <div className="slide-inner--info">
                 <h1>Casa Lulu<br />tulum</h1>
-                <a href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</a>
+                <Link href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</Link>
               </div>
             </div>
           </div>
@@ -27,7 +28,7 @@ const HomePage = () => {
               ></div>
               <div className="slide-inner--info">
                 <h1>a luxury<br />villa</h1>
-                <a href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</a>
+                <Link href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</Link>
               </div>
             </div>
           </div>
@@ -40,7 +41,7 @@ const HomePage = () => {
               ></div>
               <div className="slide-inner--info">
                 <h1>relaxation<br />awaits</h1>
-                <a href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</a>
+                <Link href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</Link>
               </div>
             </div>
           </div>
@@ -53,7 +54,7 @@ const HomePage = () => {
               ></div>
               <div className="slide-inner--info">
                 <h1>casa lulu<br />tulum</h1>
-                <a href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</a>
+                <Link href="/gallery" data-type="page-transition" className="ms-btn--slider">Location: Aldea Zama</Link>
               </div>
             </div>
           </div>

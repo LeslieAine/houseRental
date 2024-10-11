@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import Header from '../components/Header';
-import HomePage from '../components/HomePage';
 import Footer from '../components/Footer';
 import GalleryPage from '../components/GalleryPage';
 import HeaderLight from '../components/HeaderLight';

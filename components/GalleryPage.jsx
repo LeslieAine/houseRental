@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '../../public/gallery.json'
+import data from '../public/gallery.json'
 
 const GalleryPage = () => {
 

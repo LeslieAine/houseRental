@@ -1,7 +1,7 @@
 import React from 'react';
-import '../../public/styles/plugins.min.css';
+import '../public/styles/plugins.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import '../../public/styles/style.css';
+import '../public/styles/style.css';
 import Script from 'next/script';
 
 export default function App({ Component, pageProps }) {
